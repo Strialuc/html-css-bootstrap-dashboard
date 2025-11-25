@@ -1,0 +1,7 @@
+.nav-link{
+    color: rgb(128, 128, 128);
+}
+
+.nav-link:hover {
+    color: white;
+}
